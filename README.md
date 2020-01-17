@@ -1,6 +1,5 @@
 # newsgrid
-Sample Website
-Basic website with some grid and css responsiveness;
+A website developed with media query responsiveness, using HTML5 and CSS3 grid-templates.
 
 <p>
 "Check out a 
